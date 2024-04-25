@@ -17,7 +17,9 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Ruizhi Wei (Graduate Student Member, IEEE) received the B.S. degree in electrical engineering from the Nanjing University of Science and Technology, Nanjing, China, in 2018, and the M.S. degree in electrical engineering from the Harbin Institute of Technology, Harbin, China, in 2020. He is currently working toward the Ph.D. degree in electrical engineering with the Department of Electrical and Computer Engineering, University of Alberta, Edmonton, AB, Canada. His current research interests include the control and optimization of bidirectional dc–dc converters and their applications
+Ruizhi Wei (Graduate Student Member, IEEE) received the B.S. degree in electrical engineering from the Nanjing University of Science and Technology, Nanjing, China, in 2018, and the M.S. degree in electrical engineering from the Harbin Institute of Technology, Harbin, China, in 2020. He is currently working toward the Ph.D. degree in electrical engineering with the Department of Electrical and Computer Engineering, University of Alberta, Edmonton, AB, Canada.
+
+His current research interests include the control and optimization of bidirectional dc–dc converters and their applications
 
 
 # 🔥 News
@@ -52,5 +54,3 @@ Ruizhi Wei (Graduate Student Member, IEEE) received the B.S. degree in electrica
 - *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 - *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
 
-# 💻 Internships
-- *2019.05 - 2020.02*, [Lorem](https://github.com/), China.
